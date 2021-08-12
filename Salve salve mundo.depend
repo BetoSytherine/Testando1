@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1628626295 source:c:\users\usuario\desktop\salve salve mundo\main.c
+	<stdio.h>
+	<stdlib.h>
+
